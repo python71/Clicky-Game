@@ -5,14 +5,14 @@
   align-items: center;
 }
 
-.card > .img-container {
+.card {
     overflow: hidden;
     text-align: center;
     width: 200px;
     border: 1px solid black;
   }
 
-  .card > .img-container > img {
+  .card >  img {
     width: 200px;
     height:200px;
 
